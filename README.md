@@ -15,9 +15,12 @@ A mobile-first, responsive landing page built for TaskFlow. This project demonst
 
 ## 📁 Repository Structure
 
+```text
+landing-page/
 ├── css/
-│   └── style.css     # Mobile-first styling, design system variables, and media queries
-├── index.html        # HTML structure and semantic markup
-├── README.md         # Project documentation
-├── Capture2.PNG       # Screenshot 1 (Mobile view)
-└── Capture.PNG     # Screenshot 2 (Desktop view)
+│   └── style.css       # Mobile-first styling, design system variables, and media queries
+├── index.html           # HTML structure and semantic markup
+├── README.md            # Project documentation
+├── Capture2.PNG         # Screenshot 1 (Mobile view)
+└── Capture.PNG          # Screenshot 2 (Desktop view)
+```
